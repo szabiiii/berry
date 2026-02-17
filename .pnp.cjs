@@ -25986,7 +25986,7 @@ const RAW_RUNTIME_STATE =
           ["hogan.js", "npm:3.0.2"],\
           ["htm", "npm:3.1.1"],\
           ["preact", "npm:10.11.2"],\
-          ["qs", "npm:6.9.7"],\
+          ["qs", "npm:6.9.9"],\
           ["search-insights", "npm:2.2.1"]\
         ],\
         "packagePeers": [\
@@ -32174,10 +32174,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.9.7", {\
-        "packageLocation": "./.yarn/cache/qs-npm-6.9.7-3f3fa3ac7b-fb364b54bf.zip/node_modules/qs/",\
+      ["npm:6.9.9", {\
+        "packageLocation": "./.yarn/cache/qs-npm-6.9.9-2d9030f318-33fb4ce38c.zip/node_modules/qs/",\
         "packageDependencies": [\
-          ["qs", "npm:6.9.7"]\
+          ["qs", "npm:6.9.9"]\
         ],\
         "linkType": "HARD"\
       }]\
